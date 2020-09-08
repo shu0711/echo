@@ -1,3 +1,3 @@
 Creating a new branch is quick and simple merge.
+bug fix out!
 
-工作到一半要修改bug了，这可咋办？
